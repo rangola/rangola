@@ -77,5 +77,5 @@ With a passion for building efficient and reliable systems
 
 <p align="left"><a href="https://www.linkedin.com/in/goran-carevic/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-![](https://github-readme-stats.vercel.app/api?username=sfggfdg&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues,contribs])<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sfggfdg&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rangola&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues,contribs])<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rangola&theme=chartreuse-dark&hide_border=false)<br/>
