@@ -32,6 +32,12 @@ With a passion for building efficient and reliable systems
 
   
 ### Cloud 
+
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS" /></a>
+<a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="36" height="36" alt="Azure" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" width="36" height="36" alt="Heroku" /></a>
+
 ### Frameworks 
   
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
