@@ -18,7 +18,7 @@ With a passion for building efficient and reliable systems
 </p>
 
 Skills
-----------
+======
 
 ### Languages 
 
