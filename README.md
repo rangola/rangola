@@ -1,3 +1,6 @@
+<p align="center"><img src="https://media3.giphy.com/media/aYQ1Enqu89rQfr4JSS/giphy.gif?cid=790b76116efcc7105ca49d858c320938328b0751a5b11355&rid=giphy.gif&ct=s" width="600" height="300"  /></p>
+
+
 Hi 👋 My name is Goran
 ======================
 
@@ -6,10 +9,15 @@ Experienced DevOps Engineer with a focus on Blockchain and Cybersecurity
 
 With a passion for building efficient and reliable systems
 
-* 🚀  Currently working on [disables.co](http://disables.co)
+* 🚀  Currently building [disables.co](http://disables.co)
 * 🧠  Polishing my skills in C++
+* 💬 Ask me about anything [here](https://github.com/rangola/rangola/issues)
 
-💻 Skills
+<p align="left">
+  <img src="https://media4.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy.gif?cid=790b7611cd0f34add4cbbeca0b68770186eced04e3b27025&rid=giphy.gif&ct=s" width="40" height="40" style="display:inline-block; vertical-align:middle;" /> 
+</p>
+
+Skills
 ----------
 
 ### Languages 
