@@ -9,8 +9,7 @@ Experienced DevOps Engineer with a focus on Blockchain and Cybersecurity
 
 With a passion for building efficient and reliable systems
 
-* 🚀  Currently building [disables.co](http://disables.co)
-* 🧠  Polishing my skills in C++
+
 * 💬 Ask me about anything [here](https://github.com/rangola/rangola/issues)
 
 <p align="left">
