@@ -111,14 +111,11 @@ Skills
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" /></a>
 <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" width="36" height="36" alt="Keras" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="36" height="36" alt="Scikit-learn" /></a>
-<a href="https://learn.microsoft.com/en-us/cognitive-toolkit/" target="_blank" rel="noreferrer"><img src="https://assets.nvidiagrid.net/ngc/logos/ISV-OSS-Non-Nvidia-Publishing-Microsoft-Cognitive-Toolkit.png" width="36" height="36" alt="Microsoft Cognitive Toolkit" /></a>
-<a href="https://deeplearning4j.konduit.ai/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/581046b90092b4de08416fe5ea162525a4600ee82d229653b9a94b15873415c5/68747470733a2f2f7777772e7a656c6a6b6f6f6272656e6f7669632e636f6d2f746f6f6c732f746563682f696d616765732f65636c697073655f646565706c6561726e696e67346a2e706e67" width="36" height="36" alt="Deeplearning4j" /></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="36" height="36" alt="Pandas" /></a>
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" width="36" height="36" alt="SciPy" /></a>
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" width="36" height="36" alt="Plotly" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" width="36" height="36" alt="Seaborn" /></a>
-<a href="https://mxnet.apache.org/versions/1.9.1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/image/mxnet_logo_2.png" width="36" height="36" alt="Mxnet" /></a>
 
 ### Web3
 
