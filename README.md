@@ -137,9 +137,6 @@ Skills
 
 </p>
 
-## LinkedIn
-
-<p align="left"><a href="https://www.linkedin.com/in/goran-carevic/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
 
 ![](https://github-readme-stats.vercel.app/api?username=rangola&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues,contribs])<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rangola&theme=chartreuse-dark&hide_border=false)<br/>
