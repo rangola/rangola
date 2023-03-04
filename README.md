@@ -4,7 +4,7 @@
 Hi 👋 My name is Goran
 ======================
 
-Experienced DevOps Engineer with a focus on Blockchain and Cybersecurity
+DevOps Engineer with a focus on Blockchain and Cybersecurity
 ------------------------------------------------------------------------
 
 With a passion for building efficient and reliable systems
