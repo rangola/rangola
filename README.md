@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media3.giphy.com/media/aYQ1Enqu89rQfr4JSS/giphy.gif?cid=790b76116efcc7105ca49d858c320938328b0751a5b11355&rid=giphy.gif&ct=s" width="600" height="300"  /></p>
+<p align="center"><img src="https://media3.giphy.com/media/aYQ1Enqu89rQfr4JSS/giphy.gif?cid=790b76116efcc7105ca49d858c320938328b0751a5b11355&rid=giphy.gif&ct=s" width="300" height="100"  /></p>
 
 
 Hi 👋 My name is Goran
