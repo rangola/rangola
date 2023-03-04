@@ -4,11 +4,18 @@
 Hi 👋 My name is Goran
 ======================
 
-DevOps Engineer with a focus on Blockchain and Cybersecurity
+DevOps Project Manger with a focus on Blockchain and Cybersecurity
 ------------------------------------------------------------------------
 
-With a passion for building efficient and reliable systems
+A results-driven project manager dedicated to building efficient and reliable systems that optimize organizational performance.
 
+* 💻 Mastering the intricacies of the system development life cycle and delivering enterprise-level projects
+
+* 📊 Navigating complex tech landscapes with expertise in microservices architecture and Agile/Lean methodologies
+
+* 🌟 Orchestrating the development and deployment of scalable, high-performance microservices-based applications
+
+* 🎯 Always striving to streamline processes and optimize outcomes
 
 * 💬 Ask me about anything [here](https://github.com/rangola/rangola/issues)
 
